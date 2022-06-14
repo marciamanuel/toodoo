@@ -1,0 +1,48 @@
+ul {
+    list-style: none;
+    display: flex;
+    font-family: arial;
+    background-color: #ff9;
+    border: 5px solid #f0f;
+    padding: 5px;
+    text-align: justify;
+}
+
+li a {
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.b {
+    text-decoration: underline;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 6px;
+    text-align: center;
+}
+
+.left {
+    float: left;
+}
+
+.rigth {
+    float: right;
+}
+
+div {
+    text-align: center;
+}
